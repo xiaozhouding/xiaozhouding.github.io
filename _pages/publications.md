@@ -23,4 +23,13 @@ author_profile: true
                       href="http://www.uky.edu/~slu239/">Steven Lugauer</a>. 2022. <i>
                       <font color="red">China Economic Review</font></i>, 71, 101736. [<a href="paper/manuscript_china_saving.pdf" target="_new">Pre-print</a>, <a
                       href="https://doi.org/10.1016/j.chieco.2021.101736" target="_new">Post-print</a>]</small></li>
+  <li>College Education and Internal Migration in China
+                  <br><small>2021. <i>
+                      <font color="red">China Economic Review</font></i>, 69, 101649. [<a href="paper/manuscript_migration.pdf" target="_new">Pre-print</a>, <a
+                      href="https://doi.org/10.1016/j.chieco.2021.101649" target="_new">Post-print</a>]</small></li>
+  <li>Flood Risk and Salience: New Evidence from the Sunshine State
+                  <br><small>with <a href="http://www.laurabakkensen.com/">Laura Bakkensen</a> and <a
+                      href="https://sites.google.com/site/lalaxma/home">Lala Ma</a>. 2019. <i>
+                      <font color="red">Southern Economic Journal</font></i>, 85(4), 1132-1158. [<a href="paper/bakkensen_ding_ma_sej.pdf" target="_new">Pre-print</a>, <a
+                      href="https://doi.org/10.1002/soej.12327" target="_new">Post-print</a>]</small></li>
 </ul>
