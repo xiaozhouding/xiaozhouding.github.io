@@ -14,8 +14,7 @@ author_profile: true
           <font color="red">Journal of Regional Science</font></i>, 64(1), 207–237. [<a href="paper/manuscript_schoolboundaries.pdf" target="_new">Pre-print</a>, <a
           href="https://doi.org/10.1111/jors.12672" target="_new">Post-print</a>]</small>
     </h3>
-
-    <p>In the past fifty years, a voluminous literature estimating the value of schools through
+In the past fifty years, a voluminous literature estimating the value of schools through
       capitalization in home prices has emerged. Prior research has identified capitalization using a
       variety of approaches including discontinuities caused by boundaries. Here, we use changes in school
       boundaries and the opening of a new school in Fayette County (Lexington), Kentucky to identify this
@@ -26,7 +25,7 @@ author_profile: true
       and actual changes in boundaries). We find significant changes in values for homes redistricted from
       lower-performing schools and we find that this capitalization occurs well before implementation of the
       redistricting. As we show, failure to account for capitalization occurring before implementation will
-      attenuate and even change the sign of capitalization.</p>
+      attenuate and even change the sign of capitalization.
 
 <h2>Working Papers</h2>
   <div class="panel-body">
