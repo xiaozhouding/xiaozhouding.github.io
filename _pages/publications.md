@@ -27,8 +27,6 @@ author_profile: true
       lower-performing schools and we find that this capitalization occurs well before implementation of the
       redistricting. As we show, failure to account for capitalization occurring before implementation will
       attenuate and even change the sign of capitalization.</p>
-  </div>
-</div>
 
 <h2>Working Papers</h2>
   <div class="panel-body">
