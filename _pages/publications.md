@@ -5,16 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-<h4>Peer Reviewed Publications</h4>
-  </div>
+<h2>Peer Reviewed Publications</h4>
   <div class="panel-body">
-    <h4>Too Late to Buy A Home? School Redistricting and the Timing and Extent of Capitalization
+    <h3>Too Late to Buy A Home? School Redistricting and the Timing and Extent of Capitalization
       <br><small>with <a href="http://christopherbollinger.com/">Christopher Bollinger</a>, <a
           href="http://gatton.uky.edu/faculty-research/faculty/clark-michael">Michael Clark</a> and <a
           href="http://gattonweb.uky.edu/Faculty/hoytw/">William Hoyt</a>. 2024. <i>
           <font color="red">Journal of Regional Science</font></i>, 64(1), 207–237. [<a href="paper/manuscript_schoolboundaries.pdf" target="_new">Pre-print</a>, <a
           href="https://doi.org/10.1111/jors.12672" target="_new">Post-print</a>]</small>
-    </h4>
+    </h3>
 
     <p>In the past fifty years, a voluminous literature estimating the value of schools through
       capitalization in home prices has emerged. Prior research has identified capitalization using a
@@ -31,25 +30,17 @@ author_profile: true
   </div>
 </div>
 
-<div class="panel panel-default">
-  <div class="panel-heading">
-    <h4>Working Papers</h4>
-  </div>
+<h2>Working Papers</h2>
   <div class="panel-body">
-    <h4>Estimation of Welfare Effects in Hedonic Difference-in-Differences: The Case in School Redistricting
+    <h3>Estimation of Welfare Effects in Hedonic Difference-in-Differences: The Case in School Redistricting
       <br><small>with <a href="http://christopherbollinger.com/">Christopher Bollinger</a>, <a
           href="http://gatton.uky.edu/faculty-research/faculty/clark-michael">Michael Clark</a> and <a
           href="http://gattonweb.uky.edu/Faculty/hoytw/">William Hoyt</a>. [<a href="paper/school_welfare.pdf"
           target="_new">Working Paper</a>] #PropertyValues #Education #DID #Welfare #Hedonics</small>
-    </h4>
+    </h3>
   </div>
-</div>
 
-<div class="panel panel-default">
-  <div class="panel-heading">
-    <h4>Selected Work in Progress</h4>
-  </div>
+<h2>Selected Work in Progress</h42>
   <div class="panel-body">
     <p>Schools and Neighborhoods: The Impact of School Attendance Boundary Changes (with William Hoyt)</p>
   </div>
-</div>
