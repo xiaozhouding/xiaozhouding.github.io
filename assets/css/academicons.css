@@ -569,3 +569,18 @@ border-radius: .1em;
 .ai-inverse {
   color: #fff;
 }
+/* Below is set paper title color and font size */
+.custom-title {
+  color: #0033A0; /* Your preferred blue color */
+  font-weight: bold;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  margin-bottom: 0; /* Remove bottom margin to reduce space */
+}
+
+.custom-details {
+  margin-top: 0; /* Remove top margin to reduce space */
+}
+.custom-journal {
+  color: #B2292E; /* Corrected red color based on RGB 178, 41, 46 */
+}

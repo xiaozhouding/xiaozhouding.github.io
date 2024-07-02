@@ -1,7 +1,13 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Australia"
+excerpt: "12 Apostles, Australia<br/><img src='/images/photos/aus/12apostles.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This is 12 Apostles in Australia.
+
+<img src="{{ site.baseurl }}/images/photos/aus/12apostles.jpg" alt="12 Apostles, AUS">
+
+This is Sydney Opera before the New Year's Eve.
+
+<img src="{{ site.baseurl }}/images/photos/aus/sydney_opera.jpg" alt="Sydney Opera, AUS">

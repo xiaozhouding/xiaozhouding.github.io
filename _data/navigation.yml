@@ -3,11 +3,8 @@ main:
   - title: "CV"
     url: "/files/CV.pdf"
 
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Working Papers"
-    url: /workingpapers/    
+  - title: "Research"
+    url: /research/ 
 
   - title: "Teaching"
     url: /teaching/    
@@ -18,5 +15,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
 
-  - title: "Guide"
+  - title: "Links"
     url: /markdown/
+  
+  - title: "中文"
+    url: /chinese/
