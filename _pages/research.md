@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-<h2>Peer Reviewed Publications</h2>
+<h2>Publications</h2>
 
 <h4 class="custom-title">Too Late to Buy A Home? School Redistricting and the Timing and Extent of Capitalization</h4>
 <div class="custom-details">
