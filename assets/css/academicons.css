@@ -576,10 +576,13 @@ border-radius: .1em;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 18px;
   margin-bottom: 0; /* Remove bottom margin to reduce space */
+  margin-top: 1.2em; /* Adjust the top margin to your preference */
 }
 
 .custom-details {
-  margin-top: 0; /* Remove top margin to reduce space */
+  margin-top: 0; /* Reduce top margin */
+  margin-bottom: 0.5em; /* Reduce bottom margin */
+  line-height: 1.4; /* Adjust line height for better readability */
 }
 .custom-journal {
   color: #B2292E; /* Corrected red color based on RGB 178, 41, 46 */
