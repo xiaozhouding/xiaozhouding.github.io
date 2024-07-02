@@ -19,8 +19,46 @@ author_profile: true
   despite so many differences in their economic development, education level, social norm, 
   and culture. If you're interested in those stories, I would encourage you to go out there and visit
   those places you have thought about. You'll find them to be amazing.
-  
 </p>
+
+<div id="map" style="height: 500px;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d11998.018217782852!2d-96.01499294999999!3d41.254348900000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus!4v1719890270778!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+<!-- 
+<div id="map" style="height: 500px;"></div>
+
+<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha384-0yS5T2zrF/uOc9ueHVhptkHGe4D6cOm/p7mygxA/i/0pY8AigB5hcg39/f9+u7y8" crossorigin=""></script>
+
+<script>
+  // Initialize the map and set its view to the chosen geographical coordinates and zoom level
+  var map = L.map('map').setView([20, 0], 2);
+
+  // Add the base map layer from OpenStreetMap
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+  }).addTo(map);
+
+  // Function to style each country based on the "visited" property
+  function style(feature) {
+    return {
+      fillColor: feature.properties.visited ? '#0033A0' : '#cccccc', // Dark blue for visited, light gray for not visited
+      weight: 2,
+      opacity: 1,
+      color: 'white',
+      dashArray: '3',
+      fillOpacity: 0.7
+    };
+  }
+
+  // Load GeoJSON data and add to map
+  var geojsonData = '/assets/geo/visited_countries.geojson'; // Replace with the correct path to your GeoJSON file
+  fetch(geojsonData)
+    .then(response => response.json())
+    .then(data => {
+      L.geoJson(data, { style: style }).addTo(map);
+    })
+    .catch(error => console.error('Error loading GeoJSON:', error));
+</script> -->
 
 {% include base_path %}
 

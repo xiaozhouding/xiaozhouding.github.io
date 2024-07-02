@@ -1,0 +1,170 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "China",
+        "visited": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[104.1954, 35.8617], [117.2000, 39.1334], [104.1954, 35.8617]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Japan",
+        "visited": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[138.2529, 36.2048], [140.0000, 37.0000], [138.2529, 36.2048]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Korea",
+        "visited": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[127.7669, 35.9078], [128.0000, 36.0000], [127.7669, 35.9078]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thailand",
+        "visited": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[100.9925, 15.8700], [101.0000, 16.0000], [100.9925, 15.8700]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Australia",
+        "visited": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[133.7751, -25.2744], [134.0000, -26.0000], [133.7751, -25.2744]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Singapore",
+        "visited": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[103.8198, 1.3521], [104.0000, 1.5000], [103.8198, 1.3521]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malaysia",
+        "visited": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[101.9758, 4.2105], [102.0000, 4.5000], [101.9758, 4.2105]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spain",
+        "visited": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[3.7038, 40.4168], [4.0000, 41.0000], [3.7038, 40.4168]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Portugal",
+        "visited": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[9.1393, 38.7223], [10.0000, 39.0000], [9.1393, 38.7223]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morocco",
+        "visited": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[9.2416, 34.0209], [10.0000, 35.0000], [9.2416, 34.0209]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peru",
+        "visited": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-75.0152, -9.1899], [-76.0000, -10.0000], [-75.0152, -9.1899]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "USA",
+        "visited": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-95.7129, 37.0902], [-96.0000, 38.0000], [-95.7129, 37.0902]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canada",
+        "visited": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-106.3468, 56.1304], [-107.0000, 57.0000], [-106.3468, 56.1304]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Germany",
+        "visited": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[10.4515, 51.1657], [11.0000, 52.0000], [10.4515, 51.1657]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "France",
+        "visited": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[2.2137, 46.6034], [3.0000, 47.0000], [2.2137, 46.6034]]]
+      }
+    }
+  ]
+}
