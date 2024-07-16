@@ -16,7 +16,7 @@
         url('../fonts/academicons.svg') format('svg');
 }
 .ai {
-  font-family: 'Academicons';
+  font-family: 'Helvetica'; /*Academicons */
   font-weight: 400;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
@@ -587,15 +587,3 @@ border-radius: .1em;
 .custom-journal {
   color: #B2292E; /* Corrected red color based on RGB 178, 41, 46 */
 }
-/* Ensure anchor tags within social-links are displayed inline-block */
-.author-links a {
-  display: inline-block;
-  padding: 0;
-  margin: 0;
-}
-
-/* Add some padding around the icons for better clickability without extending the clickable area */
-.author-links a i {
-  padding: 5px; /* Adjust the padding as needed */
-}
-
