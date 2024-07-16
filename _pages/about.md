@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor in the Ness School of Management and Economics at South Dakota State University.
+I am an assistant professor in the [Ness School of Management and Economics](https://www.sdstate.edu/ness-school-management-economics) at [South Dakota State University](https://www.sdstate.edu/).
 
-I received a PhD in economics from University of Kentucky (2020), an MS in economics from Tufts University (2015) and a BS in economics from Chongqing Technology and Business University (2013).
+I received a PhD in economics from [University of Kentucky](https://gatton.uky.edu/) (2020), an MS in economics from [Tufts University](https://as.tufts.edu/economics/) (2015) and a BS in economics from [Chongqing Technology and Business University](https://en2014.ctbu.edu.cn/) (2013).
 
 Prior to joining SDSU, I was an assistant professor of economics at Dickinson College. I co-organized the 2024 Liberal Arts College Public and Labor (LAC-PaL) Virtual Seminar. If you are interested in receiving the virtual meeting link for the seminar, please sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSf0AIWEuXfrkHgd_nLvCL5m6517rGumLg6HIeMl0JkmNkXN3g/viewform).
 

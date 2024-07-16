@@ -1,13 +1,11 @@
 ---
-title: "Australia"
-excerpt: "12 Apostles, Australia<br/><img src='/images/photos/aus/12apostles.jpg'>"
+title: "Australia 🇦🇺"
+excerpt: "Twelve Apostles<br/><img src='/images/photos/aus/12apostles.jpg' style='width:900px;'>"
 collection: portfolio
 ---
 
-This is 12 Apostles in Australia.
+Twelve Apostles
+<img src="{{ site.baseurl }}/images/photos/aus/12apostles.jpg" alt="12 Apostles, AUS" style="width:1500px;">
 
-<img src="{{ site.baseurl }}/images/photos/aus/12apostles.jpg" alt="12 Apostles, AUS">
-
-This is Sydney Opera before the New Year's Eve.
-
-<img src="{{ site.baseurl }}/images/photos/aus/sydney_opera.jpg" alt="Sydney Opera, AUS">
+Sydney Harbour
+<img src="{{ site.baseurl }}/images/photos/aus/sydney_opera.jpg" alt="Sydney Harbour, AUS" style="width:1500px;">

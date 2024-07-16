@@ -1,9 +1,8 @@
 ---
-title: "Peru"
-excerpt: "Machu Picchu, Peru<br/><img src='/images/photos/peru/machu-picchu.jpg'>"
+title: "Peru 🇵🇪"
+excerpt: "Machu Picchu<br/><img src='/images/photos/peru/machu-picchu.jpg' style='width:900px;'>"
 collection: portfolio
 ---
 
-This is the view of Machu Picchu.
-
-<img src="{{ site.baseurl }}/images/photos/peru/machu-picchu.jpg" alt="Machu Picchu, Peru">
+Machu Picchu
+<img src="{{ site.baseurl }}/images/photos/peru/machu-picchu.jpg" alt="Machu Picchu, Peru" style="width:1500px;">
