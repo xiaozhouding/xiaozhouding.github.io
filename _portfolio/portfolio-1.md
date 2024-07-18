@@ -9,3 +9,5 @@ Twelve Apostles
 
 Sydney Harbour
 <img src="{{ site.baseurl }}/images/photos/aus/sydney_opera.jpg" alt="Sydney Harbour, AUS" style="width:1500px;">
+
+<img src="{{ site.baseurl }}/images/photos/aus/sydney_harbour_nye.jpg" alt="Sydney Harbour, AUS" style="width:1500px;">
