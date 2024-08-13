@@ -14,3 +14,6 @@ Potala Palace, Lhasa
 
 Namjagbarwa Peak, Nyingchi
 <img src="{{ site.baseurl }}/images/photos/china/Tibet/Namjagbarwa.jpg" style="width:1500px;">
+
+National Highway 318, Pasho County
+<img src="{{ site.baseurl }}/images/photos/china/Tibet/NuRiver72.jpg" style="width:1500px;">
