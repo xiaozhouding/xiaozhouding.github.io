@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 <h2>Publications</h2>
+<h4 class="custom-title">Maternal Education and Early Childhood Outcomes in China</h4>
+<div class="custom-details">
+  <small>with <a href="http://www.yaxiangsong.com/">Yaxiang Song</a>. 2025. <i class="custom-journal">Economics of Education Review</i>, 107, 102660. [<a href="/files/paper/manuscript_educ_childoutcome.pdf" target="_new">Pre-print</a>, <a href="https://doi.org/10.1016/j.econedurev.2025.102660" target="_new">Post-print</a>]</small>
+</div>
 
 <h4 class="custom-title">Too Late to Buy A Home? School Redistricting and the Timing and Extent of Capitalization</h4>
 <div class="custom-details">
@@ -37,9 +41,9 @@ author_profile: true
   <small>with <a href="http://christopherbollinger.com/">Christopher Bollinger</a>, <a href="http://gatton.uky.edu/faculty-research/faculty/clark-michael">Michael Clark</a> and <a href="http://gattonweb.uky.edu/Faculty/hoytw/">William Hoyt</a>. [<a href="/files/paper/school_welfare.pdf" target="_new">Working Paper</a>] #PropertyValues #Education #DID #Welfare #Hedonics</small>
 </div>
 
-<h4 class="custom-title">Maternal Education and Early Childhood Outcomes in China</h4>
+<h4 class="custom-title">Reshaping Traditions: Pension Reform, Son Preference, and Old Age Support</h4>
 <div class="custom-details">
-  <small>with <a href="http://www.yaxiangsong.com/">Yaxiang Song</a>. [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4600556" target="_new">Working Paper</a>] #Education #Health #China</small>
+  <small>with <a href="https://sites.google.com/site/yjiaoksu/">Yang Jiao</a> and Yuyun Liu. #Pension #Gender</small>
 </div>
 
 <h4 class="custom-title">College Education, Enrollment Location, and the Geographical Mobility of Young Adults</h4>
